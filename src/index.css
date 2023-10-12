@@ -25,7 +25,7 @@ html {
 body {
   min-height: 100vh;
   color: var(--color-light);
-  background-color: var(--color-darkest);
+  background-color: red;
   padding: 3.2rem;
 }
 
